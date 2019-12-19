@@ -25,7 +25,7 @@ public class Ejemplo {
         //System.out.println("hola mundo");
         DefaultCategoryDataset dataset = new DefaultCategoryDataset();
         
-        dataset.setValue(6, "2017", "Jorge");
+        dataset.setValue(6, "2017", Jorge);
         dataset.setValue(7, "2018", "Jorge");
         
         dataset.setValue(8, "2017", "Cristina");
